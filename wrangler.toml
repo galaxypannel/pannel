@@ -6,8 +6,8 @@ compatibility_flags = [ "nodejs_compat" ]
 
 
 [vars]
-WS_PATH = "galaxy-tunnel"
+
 PROXYIP = "galaxytunnel.cloud-ip.cc"
-UUID = "499781a6-5d19-4179-910f-f78a6ce28689"
+UUID = "2a583eec-9745-4a51-866f-0924d0f90bee"
 DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 RATE_LIMIT_PER_MINUTE = 60
